@@ -1,9 +1,10 @@
-* 46aa2eb - Siggi-03, 35 seconds ago : Tryiing to get the git log in the notebook
-* 7b4c8b4 - Siggi-03, 62 seconds ago : Started on testing fractions and completing it
+* 29bb9eb - Siggi-03, 24 seconds ago : Fixed git log
+* 46aa2eb - Siggi-03, 72 seconds ago : Tryiing to get the git log in the notebook
+* 7b4c8b4 - Siggi-03, 2 minutes ago : Started on testing fractions and completing it
 * 0e46659 - Siggi-03, 2 minutes ago : Add git log
 * ea2cb19 - Siggi-03, 13 minutes ago : added fraction class and tested it
-* f8c7a50 - Siggi-03, 48 minutes ago : startet on task 2
-* e645de7 - Siggi-03, 51 minutes ago : fixed names and started on task 2
+* f8c7a50 - Siggi-03, 49 minutes ago : startet on task 2
+* e645de7 - Siggi-03, 52 minutes ago : fixed names and started on task 2
 * 4478914 - shemsabr, 2 days ago : Fix requirements.txt encoding
 * 434c71e - shemsabr, 2 days ago : Add requirements for virtual environment
 * fae0a01 - shemsabr, 2 days ago : Add files via upload
