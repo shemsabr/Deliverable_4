@@ -1,0 +1,18 @@
+* 46aa2eb - Siggi-03, 35 seconds ago : Tryiing to get the git log in the notebook
+* 7b4c8b4 - Siggi-03, 62 seconds ago : Started on testing fractions and completing it
+* 0e46659 - Siggi-03, 2 minutes ago : Add git log
+* ea2cb19 - Siggi-03, 13 minutes ago : added fraction class and tested it
+* f8c7a50 - Siggi-03, 48 minutes ago : startet on task 2
+* e645de7 - Siggi-03, 51 minutes ago : fixed names and started on task 2
+* 4478914 - shemsabr, 2 days ago : Fix requirements.txt encoding
+* 434c71e - shemsabr, 2 days ago : Add requirements for virtual environment
+* fae0a01 - shemsabr, 2 days ago : Add files via upload
+* 0266444 - shemsabr, 2 days ago : Add temperature notebook
+* a3b9061 - shemsabr, 2 days ago : Add temperature and test notebooks
+* 7d41946 - shemsabr, 2 days ago : Delete deliverable_4.ipynb
+* da207e9 - shemsabr, 2 days ago : Complete Task 1 with temperature class and tests
+* 5cf310f - shemsabr, 2 days ago : Headline
+* e940a95 - shemsabr, 2 days ago : Delete test_temperature.py
+* 4f63ed6 - shemsabr, 2 days ago : Add files via upload
+* f8828b4 - shemsabr, 2 days ago : Task 1
+* 1bc1643 - shemsabr, 2 days ago : Add files via upload
